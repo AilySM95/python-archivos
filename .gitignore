@@ -1,0 +1,5 @@
+# Archivo que genera el programa al ejecutarse; no hace falta subirlo.
+notas.txt
+
+# Carpeta de caché que crea Python automáticamente.
+__pycache__/
